@@ -1,13 +1,11 @@
 # shippr
 
-## Branches
+Shared Markdown files, data and ledgers.
 
-| Branch | Purpose |
-| --- | --- |
-| `main` | Shared Markdown files, data and ledgers |
-| `news-fiction` | News Fiction project |
+The News Fiction project lives in its own repository:
+[shippr-repo/news-fiction](https://github.com/shippr-repo/news-fiction).
 
-## Layout (main)
+## Layout
 
 ```
 docs/     Shared Markdown files
